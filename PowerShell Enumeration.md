@@ -38,6 +38,9 @@ PowerShell is a windows built-in comman-line interface (CLI)
 
 `route print` - display the local machine's IP routing table 
 
+
+
+
 # **Other Useful Commands**
 `nslookup example.com` - Get the IP address of a domain
 
